@@ -3,7 +3,7 @@
 I'm a passionate student and aspiring **Cloud Software Developer**.
 
 - 🌱 I’m currently learning Full Stack Development
-- 🚀 Interested in AI/ML and Cloud Platforms (AWS, Azure)
+- 🚀 Interested in AI/ML and Cloud Platforms (AWS)
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/karthikkpradeep)
 
 ## 🛠️ Skills
