@@ -7,9 +7,13 @@
 #  About Me
 
 🎓 B.Tech Computer Science student at **SNMIMT** (KTU)
-☁️ Aspiring **Cloud Software Developer** passionate about building scalable, modern solutions
+
+☁️ Aspiring **DevOPS Engineer** passionate about building scalable, modern solutions
+
 🛠️ Currently honing my skills in **AWS, Docker, Linux & Terraform**
+
 🤖 Exploring **AI & Machine Learning** and their real-world applications
+
 🌱 Always learning — always building
 
 ---
