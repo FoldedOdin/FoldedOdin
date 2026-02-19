@@ -12,8 +12,6 @@
 
 🛠️ Currently honing my skills in **AWS, Docker, Linux & Terraform**
 
-🤖 Exploring **AI & Machine Learning** and their real-world applications
-
 🌱 Always learning — always building
 
 ---
