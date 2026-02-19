@@ -4,7 +4,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 B.Tech Computer Science student at **SNMIMT** (KTU)
 ☁️ Aspiring **Cloud Software Developer** passionate about building scalable, modern solutions
@@ -73,7 +73,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FoldedOdin&icon=0&color=6" alt="Profile Views" />
-</div>
