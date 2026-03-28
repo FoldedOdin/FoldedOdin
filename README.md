@@ -17,13 +17,13 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikkpradeep)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KarthikKPradeep)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikkpradeep422@gmail.com)
 
-</div>
+
 
 ---
 
