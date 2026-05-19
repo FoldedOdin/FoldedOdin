@@ -53,14 +53,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoldedOdin&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-
----
