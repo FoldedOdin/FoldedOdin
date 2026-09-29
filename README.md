@@ -58,7 +58,9 @@ A self-hosted CI/CD platform with intelligent failure diagnosis.
 
 A production website for a solo healthcare practice, with a headless CMS so non-technical staff can update services on their own, plus an automatic static-content fallback that keeps the site online if the CMS is unreachable.
 
-`Next.js 14` `TypeScript` `Sanity`
+`Next.js 14` `TypeScript` `Sanity` `Netlify` `Terraform` `GitHub Actions`
+
+[![Live Site](https://img.shields.io/badge/Live-kpm--clinic.com-6CE4F7?style=for-the-badge&logo=vercel&logoColor=black)](https://kpm-clinic.com/)
 
 ---
 
